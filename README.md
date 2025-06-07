@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivupujari2003" alt="shivupujari2003" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Devops Projects**
 
